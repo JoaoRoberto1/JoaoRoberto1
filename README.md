@@ -2,7 +2,7 @@
 
 
 # Welcome!
-## I'm Lucas! Let me present a little about myself :D
+## I'm João Roberto! Let me present a little about myself :D
 
 Full-Stack focused in React.js, Next.js, Node.js and Laravel | Software engineer :robot:
 
